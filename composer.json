@@ -1,0 +1,12 @@
+{
+    "name": "bissolli/timezones",
+    "description": "Package testing",
+    "authors": [
+        {
+            "name": "Gustavo Bissolli",
+            "email": "gustavo.bissolli@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
